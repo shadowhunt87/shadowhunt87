@@ -35,6 +35,7 @@
 | [`06-operaciones`](06-operaciones/) | CRM y herramientas, KPIs, forecast y rituales del equipo |
 | [`07-plantillas`](07-plantillas/) | Propuestas, correos, WhatsApp, handoff, reporte semanal |
 | [`08-onboarding-equipo`](08-onboarding-equipo/) | Plan 30-60-90 y certificación de nuevos vendedores |
+| [`productos`](productos/) | **Estrategia por producto**, empezando por [Soft Taller](productos/soft-taller/) |
 
 ## ⚡ Por dónde empezar
 

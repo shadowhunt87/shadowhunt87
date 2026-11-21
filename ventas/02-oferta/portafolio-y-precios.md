@@ -6,15 +6,16 @@
 
 **Qué resuelve:** órdenes de trabajo perdidas en papel, inventario de repuestos sin control, clientes sin historial de vehículo, facturación lenta y dueños sin visibilidad del negocio.
 
-| Plan | Para quién | Incluye | Precio referencial |
+| Plan | Para quién | Mensual (Todo incluido) | Anual |
 |---|---|---|---|
-| **Básico** | Taller pequeño (1–3 mecánicos) | Órdenes de trabajo, clientes y vehículos, facturación, 2 usuarios | USD 29/mes |
-| **Profesional** | Taller mediano (4–10) | + Inventario, reportes, recordatorios por WhatsApp, 6 usuarios | USD 59/mes |
-| **Empresarial** | Multi-sucursal / flotas | + Multi-sucursal, roles avanzados, usuarios ilimitados, soporte prioritario | USD 119/mes |
+| **Arranque** | Taller pequeño, 2 usuarios | RD$2,990 (150 e-CF) | RD$29,900 |
+| **Taller Pro** ⭐ | Taller de 3–5 usuarios, trabaja con aseguradoras | RD$5,990 (500 e-CF) | RD$59,900 |
+| **Empresa** | Taller grande con contabilidad y nómina, 12 usuarios | RD$10,900 (1,000 e-CF) | RD$109,000 |
+| **Red** | Multi-sucursal (3 incluidas) | Desde RD$18,900 | A cotizar |
 
-**Módulos adicionales (add-ons):** facturación electrónica NCF, portal del cliente, integración contable, módulo de citas.
-**Implementación:** gratis en Básico; cargo único en Profesional y Empresarial (migración + capacitación).
-**Plan anual:** 2 meses gratis (≈ 17% de descuento): palanca principal de retención.
+Precios **reales** (propuesta del 4/11/2026), sin ITBIS. Existe además la Opción 2, Pago por consumo (cuota menor + RD$5 por e-CF). Pago anual = 10 mensualidades, con implementación gratis en Arranque y Taller Pro.
+
+➡️ **Estrategia completa, guía de planes y discurso:** [`../productos/soft-taller/`](../productos/soft-taller/)
 
 ## 2. Sistema POS: punto de venta para retail
 
