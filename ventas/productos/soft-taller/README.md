@@ -23,3 +23,4 @@
 | [`discurso-y-objeciones.md`](discurso-y-objeciones.md) | Discurso por segmento, preguntas, demo y objeciones específicas |
 | [`mejoras-a-la-propuesta.md`](mejoras-a-la-propuesta.md) | Ajustes recomendados al documento de propuesta para vender más |
 | [`caso-de-exito-cliente-1.md`](caso-de-exito-cliente-1.md) | Cómo convertir al cliente ganado en caso de éxito y fuente de referidos |
+| [`lanzamiento/`](lanzamiento/) | 🚀 **Kit de arranque**: plan día a día, campaña, anuncios, landing y aliados |
