@@ -8,7 +8,7 @@ Vendemos dos cosas a la vez:
 1. **Lo obligatorio:** facturación electrónica (e-CF), formatos 606/607/608 y, en Empresa, IT-1 e IR-17 y nómina con TSS. *El taller tiene que cumplir.*
 2. **Lo que le hace ganar dinero:** órdenes, control de bahías y destajo, inventario, cobro a aseguradoras y aprobación de presupuestos por WhatsApp.
 
-**Disparador de urgencia:** la obligación de emitir e-CF de la Ley 32-23 de facturación electrónica. `[VALIDAR el calendario vigente de la DGII por tipo de contribuyente antes de usarlo en campañas; no afirmar fechas ni sanciones sin confirmar.]`
+**Disparador de urgencia:** la obligación de emitir e-CF de la Ley 32-23. Ver la **sección 10, Estrategia de plazos DGII**, que define cómo usarla según el tamaño del taller.
 
 **Competencia indirecta más fuerte:** el **Facturador Gratuito de la DGII**. Solo emite comprobantes. No maneja órdenes, inventario, aseguradoras, destajo ni reportes. Nuestro mensaje: *"Facturar no es lo mismo que administrar su taller."* `[VALIDAR los límites actuales del Facturador Gratuito]`
 
@@ -48,7 +48,10 @@ El ticket va de RD$3,000 a RD$11,000/mes, así que se vende con **venta interna 
 4. **Seguimiento** días 1, 3 y 6. Cierre con pago anual o mensual.
 5. **Implementación:** habilitación como emisor electrónico (sujeta a la DGII), configuración y capacitación.
 
-> Como la habilitación de e-CF depende de la DGII, **no se ofrece prueba gratis con facturación real**. En su lugar: demo con datos del propio taller y, si dirección lo aprueba, **garantía de satisfacción de 30 días** sobre la cuota. `[DECISIÓN DE DIRECCIÓN]`
+> Como la habilitación de e-CF depende de la DGII, **no se ofrece prueba gratis con facturación real** ni garantía de devolución. Para bajar el riesgo percibido usamos:
+> - **Demo con datos del propio taller** (su nombre, sus vehículos, sus aseguradoras).
+> - **Flexibilidad de plan:** el cliente puede cambiar de plan u opción al inicio de cualquier período (ya está en las condiciones comerciales). *"Empiece en el plan que le recomendamos; si le queda grande o pequeño, lo cambia el mes siguiente."*
+> - **Testimonio del cliente 1** y referencias de talleres de su zona.
 
 ## 5. Embudo y metas `[VALIDAR]`
 
@@ -63,7 +66,16 @@ El ticket va de RD$3,000 a RD$11,000/mes, así que se vende con **venta interna 
 
 **Proyección a 12 meses** (subida de 10 a 20 clientes/mes, 3% de cancelaciones mensuales): ≈ 165–175 clientes activos y ≈ RD$1,000,000 de ingreso mensual recurrente al cierre del año.
 
-**Límite de costo de adquisición (CAC):** recuperar la inversión en un máximo de 6 meses. Si el margen bruto fuera de 70% `[VALIDAR costo real del proveedor e-CF, WhatsApp e infraestructura]`, el CAC máximo sería ≈ **RD$25,000 por cliente** (6 × 6,100 × 0.7).
+**Límite de costo de adquisición (CAC):** cuánto podemos gastar en total (pauta, comisiones, sueldos comerciales, visitas, aliados) para conseguir **un** cliente. La regla: lo recuperamos con lo que el cliente nos deja en máximo **6 meses**.
+
+| Concepto | Valor |
+|---|---|
+| Ingreso mensual promedio por cliente | ≈ RD$6,100 |
+| Costo mensual de servir a ese cliente (proveedor e-CF, WhatsApp, servidores, soporte) | `[PENDIENTE: dato de la empresa]` |
+| Ganancia mensual por cliente | Ingreso − costo |
+| **Máximo a gastar por cliente** | **Ganancia mensual × 6** |
+
+*Ejemplo:* si servir a un cliente cuesta RD$1,800/mes, la ganancia es RD$4,300 y el máximo a gastar por cliente es **≈ RD$25,800**. Si un canal cuesta más que eso por cliente, se corrige o se apaga.
 
 **Presupuesto de pauta sugerido para el Q1:** RD$60,000–80,000/mes para ≈ 200 leads (costo por lead ≈ RD$300–400). El resto de los leads viene de campo, aliados y referidos.
 
@@ -90,11 +102,51 @@ Aplica la política general (`01-organizacion/compensacion-y-comisiones.md`):
 
 | Semanas | Acciones |
 |---|---|
-| **1–2** | Ajustar la propuesta (ver `mejoras-a-la-propuesta.md`). Grabar el caso de éxito del cliente 1. Landing page + 4 anuncios. Lista de 300 talleres por zona. Confirmar datos de la DGII marcados `[VALIDAR]` |
-| **3–4** | Lanzar pauta (Meta + Google). Iniciar campo 2 días por semana. Reunión con 3 suplidores de pintura/repuestos y 5 contadores |
+| **1–2** | Ajustar la propuesta (ver `mejoras-a-la-propuesta.md`). Grabar el caso de éxito del cliente 1. Landing page + 4 anuncios. Lista de 300 talleres por zona. **Campaña de talleres medianos y grandes** (ya obligados) |
+| **3–4** | Lanzar pauta (Meta + Google). **Activar la campaña de prórroga** apenas la DGII publique la nueva fecha (anunciada a más tardar el 30/11/2026). Iniciar campo 2 días por semana. Reunión con 3 suplidores de pintura/repuestos y 5 contadores |
 | **5–8** | Primeros aliados firmados. Reunión con 1 aseguradora. Revisión semanal del embudo; apagar los anuncios con costo por lead > RD$600 |
 | **9–12** | Duplicar el canal con mejor CAC. Segundo caso de éxito (taller de pintura con aseguradoras). Evaluar contratar un segundo AE |
 
 ## 9. Indicadores semanales
 
 Leads por canal · costo por lead · demos realizadas · tasa de cierre · **% de ventas con pago anual** · mezcla por plan · ingreso recurrente nuevo · días hasta habilitación e-CF · activación a 30 días · cancelaciones.
+
+## 10. Estrategia de plazos DGII
+
+### Situación al 21 de noviembre de 2026
+| Tipo de contribuyente | Situación e-CF |
+|---|---|
+| Grandes nacionales | Obligados desde mayo de 2024 |
+| Grandes locales y medianos | Obligados desde mayo de 2025 |
+| Pequeños, micro y no clasificados | El plazo venció el **15/11/2026** (prórroga del Aviso 06-26). El **17/11/2026** la DGII anunció, por instrucción del Poder Ejecutivo, **una nueva ampliación**. Los detalles (quién califica y nueva fecha) se publican **a más tardar el 30/11/2026** |
+
+Más de 165,000 contribuyentes ya están incorporados, así que el mercado ya conoce el tema.
+
+### Cómo vendemos según el tamaño del taller
+
+**A. Talleres medianos y grandes (ya obligados): campaña "Póngase al día bien hecho".**
+- Muchos ya emiten e-CF con un facturador o un proveedor que **solo factura**. Mensaje: *"Ya cumple con la DGII; ahora haga que la factura electrónica trabaje para su taller: órdenes, aseguradoras, inventario y contabilidad en el mismo sistema."*
+- Los que aún no cumplen están expuestos a sanciones: atenderlos primero, con un mensaje informativo y sin exagerar.
+- Planes objetivo: Taller Pro y Empresa.
+
+**B. Talleres pequeños y micro (prórroga en camino): campaña "Use la prórroga a su favor".**
+- **No vender con miedo a multas** mientras el plazo está extendido. Pierde credibilidad y el mercado está sensible (hubo protestas).
+- Mensaje: *"Tiene más tiempo: úselo para hacerlo bien, sin carreras. La habilitación ante la DGII toma su tiempo y al final del plazo todos van a correr al mismo tiempo."*
+- Cuando la DGII publique la nueva fecha: **cuenta regresiva** en anuncios y WhatsApp (90, 60, 30 y 15 días antes).
+- Oferta de "inscripción temprana": quien contrate en los primeros 60 días de la prórroga queda habilitado con tiempo. La palanca sigue siendo el pago anual (implementación gratis), sin descuentos extra.
+- Planes objetivo: Arranque y Taller Pro.
+
+**C. Calendario de acción**
+| Fecha | Acción |
+|---|---|
+| Hasta el 30/11/2026 | Priorizar talleres medianos y grandes. Preparar piezas de la campaña de prórroga con la fecha en blanco |
+| Día del anuncio de la DGII | Publicación informativa en redes ("Esto es lo que cambió y a quién aplica") + mensaje a toda la base de leads |
+| Semana siguiente | Webinar o en vivo: "Factura electrónica para talleres: qué hacer con la prórroga". Activar contadores aliados |
+| 90 / 60 / 30 / 15 días antes del nuevo vencimiento | Cuenta regresiva en pauta y WhatsApp; reforzar equipo de implementación |
+| Últimos 30 días | Capacidad de implementación al máximo: avisar que la habilitación depende de la DGII y no garantizar fechas |
+
+### Reglas
+- **Todo dato de plazos que se publique se toma de la fuente oficial (dgii.gov.do)** con fecha de consulta. Nunca prometer fechas de habilitación de la DGII.
+- Actualizar esta sección cada vez que la DGII publique un aviso.
+
+**Fuentes (consultadas el 21/11/2026):** [Aviso de prórroga DGII](https://dgii.gov.do/noticias/Paginas/DGII-otorga-prorroga-seis-meses-Peque%C3%B1os-Micros-y-no-clasificados.aspx) · [Diario Libre, 17/11/2026](https://www.diariolibre.com/economia/finanzas/2026/11/17/dgii-ampliara-plazo-para-facturacion-electronica/3723073) · [Proceso, 17/11/2026](https://proceso.com.do/2026/11/17/dgii-decide-ampliar-plazo-para-incorporacion-a-facturacion-electronica-para-los-contribuyentes-micro-y-pequenos/)

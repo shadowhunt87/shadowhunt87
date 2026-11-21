@@ -6,11 +6,12 @@
 
 | Tema | Decisión |
 |---|---|
-| **Gancho principal** | Facturación electrónica (e-CF) obligatoria ante la DGII. El taller **tiene** que facturar electrónicamente, y nosotros además le ordenamos el negocio |
+| **Gancho principal** | Facturación electrónica (e-CF) ante la DGII: medianos y grandes ya obligados; pequeños y micro con nueva prórroga (detalles a más tardar el 30/11/2026). Ver estrategia de plazos |
 | **Plan a empujar** | **Taller Pro** (RD$5,990/mes): el mejor equilibrio entre precio y valor para el taller típico |
 | **Segmento más rentable** | Talleres de **desabolladura y pintura que trabajan con aseguradoras**: el ciclo completo del siniestro es un diferenciador fuerte |
 | **Palanca de cierre** | **Pago anual**: 2 meses gratis + implementación sin costo + certificado digital incluido (ahorro de hasta **RD$20,480** en Taller Pro) |
 | **Forma de venta** | Venta interna (WhatsApp, videollamada) + visitas de campo + alianzas (aseguradoras, suplidores de pintura y repuestos, contadores) |
+| **Riesgo percibido** | Sin garantía de devolución: demo con datos del taller + cambio de plan al inicio de cualquier mes + testimonio |
 | **Meta inicial** `[VALIDAR]` | 10 clientes nuevos/mes en el Q1 → 20/mes en el Q3 |
 
 ## Documentos

@@ -60,6 +60,12 @@
 ### "Déjeme pensarlo"
 > "Claro. ¿Qué es lo que más le hace dudar: el plan, el precio o el cambio para su equipo?" → resolver → "La propuesta tiene vigencia de 30 días. ¿Le parece si hablamos el jueves con su decisión?"
 
+### "Dieron prórroga, no tengo prisa"
+> "Es verdad, y qué bueno, porque le da tiempo de hacerlo bien. Pero piense en esto: cuando se acerque la nueva fecha, miles de negocios van a querer habilitarse al mismo tiempo. Si arranca ahora, llega tranquilo y mientras tanto ya está controlando órdenes, repuestos y aseguradoras. La factura electrónica es solo una parte de lo que le resuelve el sistema."
+
+### "¿Y si no me gusta?"
+> "Por eso primero le enseñamos el sistema con los datos de su taller. Y si el plan le queda grande o pequeño, lo puede cambiar al inicio de cualquier mes."
+
 ### "¿Cuánto tarda en estar funcionando?"
 > "La configuración y la capacitación toman pocos días. La habilitación como emisor electrónico depende del proceso de la DGII; nosotros lo gestionamos por usted." *(No prometer fechas de la DGII.)*
 
