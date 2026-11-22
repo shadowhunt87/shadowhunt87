@@ -19,11 +19,11 @@ Mientras se contrata el equipo, la venta la hace el **fundador** con el material
 | Mié 25 | Contactar 3 suplidores de pintura/repuestos y 5 contadores (ver `kit-aliados.md`) | Fundador | ☐ |
 | **Jue 26** | Publicar la página web o landing con los textos de `landing-page.md` | Fundador / web | ☐ |
 | Jue 26 | Grabar los 3 videos de anuncios (guiones en `anuncios.md`); se pueden grabar con el celular en el taller del cliente 1 | Fundador | ☐ |
-| **Vie 27** | Lanzar anuncios en Meta con RD$2,000/día (prueba de 7 días) | Fundador | ☐ |
+| **Vie 27** | Publicar los 3 videos como Reels/TikTok **orgánicos** (sin pagar) y crear el Perfil de Empresa en Google | Fundador | ☐ |
 | Vie 27 | Revisión semanal: contactos, respuestas, demos, cierres | Fundador + Dirección | ☐ |
 | **Lun 30** | DGII publica los detalles de la prórroga → actualizar fechas y activar la campaña de pequeños y micro | Dirección | ☐ |
 | **Semana 2** | 20 contactos por día + 2 visitas de campo + seguimiento de demos y propuestas | Fundador | ☐ |
-| Vie 4/12 | Revisión: apagar anuncios con costo por contacto > RD$600; duplicar los que funcionan | Fundador + Dirección | ☐ |
+| Vie 4/12 | Revisión: qué canal trajo más demos. Anuncios pagados **solo** cuando haya 3 clientes nuevos (ver `plan-cero-costo.md`) | Fundador + Dirección | ☐ |
 
 ## Metas de las 2 semanas
 
@@ -37,10 +37,13 @@ Mientras se contrata el equipo, la venta la hace el **fundador** con el material
 | Aliados con primera reunión | 3 |
 | Testimonio del cliente 1 grabado | ✅ |
 
+> 💰 **Arranque con inversión RD$0.** Ver [`plan-cero-costo.md`](plan-cero-costo.md). Los anuncios pagados se activan después.
+
 ## Archivos del kit
 
 | Archivo | Contenido |
 |---|---|
+| [`plan-cero-costo.md`](plan-cero-costo.md) | Herramientas y canales gratis; cuándo empezar a invertir |
 | [`campana-medianos-y-grandes.md`](campana-medianos-y-grandes.md) | Secuencia de contacto para talleres ya obligados a facturar electrónicamente |
 | [`lista-de-prospectos.md`](lista-de-prospectos.md) | Cómo armar la lista y columnas del CRM |
 | [`anuncios.md`](anuncios.md) | Textos y guiones de video para Meta y palabras clave para Google |

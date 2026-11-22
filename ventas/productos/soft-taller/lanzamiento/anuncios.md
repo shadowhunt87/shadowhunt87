@@ -1,6 +1,6 @@
 # Anuncios: Meta (Facebook e Instagram) y Google
 
-**Presupuesto de prueba:** RD$2,000/día durante 7 días, repartido en 3 anuncios.
+**Primero orgánico:** publicar estos videos gratis como Reels y TikTok. **Pauta pagada solo** cuando haya 3 clientes nuevos (ver `plan-cero-costo.md`); entonces, RD$500–1,000/día en el que mejor funcionó.
 **Objetivo de campaña en Meta:** mensajes a WhatsApp.
 **Segmentación:** República Dominicana, por zonas prioritarias; edad 25–60; intereses: talleres mecánicos, autopartes, pintura automotriz, vehículos, pequeñas empresas; ubicaciones de Facebook, Instagram y Reels.
 
